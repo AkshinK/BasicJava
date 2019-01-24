@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
 public class Main {
+    /*
+    The project writes everything to a file named "Output.txt"
+The OoompaLoompa song writes to a file named "RandomSong.txt"
+*/
 
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
